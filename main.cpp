@@ -101,6 +101,7 @@ void Graph::BFS(int vertix)
       }
     }
   }
+  cout << endl;
 }
 
 
